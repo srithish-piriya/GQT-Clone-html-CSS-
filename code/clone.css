@@ -1,0 +1,167 @@
+*{
+    margin-top:0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+#one{
+
+    height:70px;
+    background:white;
+    position: fixed;
+    z-index: 9999;
+    width: 100%;
+    box-shadow: 1px 1px 2px;
+}
+#two{
+    height:400px;
+    background-color:  #00BDF2;
+}
+#two1{
+    width:40%;
+    margin-left: 10%;
+    height: 350px;
+    
+}
+#two2{
+    width: 45%;
+    height: 400px;
+    margin-left: 55%;
+    margin-top: -350px;
+    
+}
+#three{
+    height:60px;
+    margin-top: -40px;
+    background-color:transparent;
+
+}
+#three1{
+    width:40%;
+    height:60px;
+    background-color: #F1D549;
+    border-bottom-right-radius: 50px;
+
+
+}
+#four{
+    height:225px;
+    background-color:white ;
+}
+#five{
+    height:1000px;
+    
+}
+#six{
+    height:200px;
+    background-color:white;
+}
+#seven{
+    height:600px;
+    background-color: #00BDF2;
+}
+#eight{
+    height:600px;
+    background-color: white;
+
+}
+#nine{
+    height:200px;
+    background-color:white;
+}
+#ten{
+    height: 700px;
+    background-color: #F9F9F9;
+}
+#elev{
+    height: 1675px;
+    background-color: white;
+}
+#elev1{
+    height:100px;
+
+   
+}
+
+#elev2{
+    width: 78%;
+    height: 1600px;
+    margin-left:11%;
+
+    
+}
+
+#twlv{
+    height:475px;
+    background-color: #F9F9F9;
+}
+#twlv1{
+    height:100px;
+
+   
+}
+#thrtn{
+    height:250px;
+    background-color: #F48120;
+}
+#frtn{
+    height: 500px;
+    background-color: #092C4C;
+    border-bottom: 1px solid #7A7A7A;
+}
+.learn-more:hover{
+    background-color: #2ca0c0;
+}
+
+.learn-more{
+    width: 140px;
+    height: 40px;
+    margin-top: 2px;
+    font-size: 15px;
+    background-color: #00BDF2;
+    border: none;
+    margin-left: 100px;
+    border-radius: 4px;
+    color: white;
+}
+.hovb:hover{
+    background-color: #00BDF2;
+
+}
+.but:hover{ 
+    background-color:#F1D549;
+    color: #F48120;
+}
+    .mul{
+        padding-top:2px;
+        color:rgb(53, 52, 52);
+        height:70px;
+        border-radius:10px;
+        background-image: linear-gradient(to right,rgb(123, 182, 222),rgba(255,0,0,0));
+    }
+a:visited{
+        color: #F9F9F9;
+}
+.table-data{
+    border-bottom: white solid 2px;
+}
+.nav:hover{
+    color:hsl(193, 100%, 47%);
+    z-index: -1;
+
+}
+#get-btn{
+    width:160px;
+    min-height:45px;
+    line-height:45px;
+    background-color: rgb(253, 181, 48);
+    border-radius:25px;
+    text-align:center;
+    margin-top:0px;
+    box-shadow:0px 4px 4px orangered;
+}
+#get-btn:hover{
+     background-color: #F48120;
+}
+#frtn a{
+    color: white;
+}
